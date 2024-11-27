@@ -23,7 +23,7 @@ dependencies:
   ## vvv If you're installing on a local machine, it's suggested to comment out
   ## vvv julia and install directly from https://julialang.org/downloads/.
   ## vvv If you're on Windows, you MUST comment out julia and install directly.
-  - julia=1.8 # for PRAS and stress periods
+  - juliaup=1.17.10 # for PRAS and stress periods
   ## ^^^
   - mapclassify=2.5 # more mapping tools
   - matplotlib=3.7 # for plots
